@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm RP Gamage
 
-Welcome to my GitHub profile! I am a passionate programmer, physicist, and mathematician with a strong background in research and development. My experience spans from working on cutting-edge simulators for the Sri Lanka Navy to developing innovative IoT and AI solutions.
+Welcome to my GitHub profile! I am a passionate programmer, physicist, and researcher with a strong background in research and development. My experience spans from working on cutting-edge simulators for the Sri Lanka Navy to developing innovative IoT and AI solutions.
 
 ---
 
 ## 🌟 About Me
 
 - 🎓 **Education**: MSc in Nuclear Science | BSc Hons in Physics | Postgraduate Diploma in Industrial Automation
-- 💼 **Experience**: Over a decade of service as a Research Officer in the Navy, specializing in R&D for simulators and subsurface threat detection systems.
+- 💼 **Experience**: Over a decade of service as a Research Officer in the Navy, specializing in R&D for simulators and control systems.
 - 🛠 **Skills**:  
   - Programming: Python, C#, C++, JavaScript, React.js, Arduino  
   - Frameworks: Unity 3D, Tkinter, Firebase  
@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I am a passionate programmer, physicist, and mathe
 - **Smart ESP32 Communication Module**:  
   Fetches the latest firmware updates from GitHub repositories via GSM 4G.
 
-- **Energy Logging System**:  
-  A real-time energy logging React.js application with Firestore integration.
+- **Data Logging System**:  
+  A real-time logging React.js application with Firestore integration.
 
 ### 🎮 Unity 3D  
 - **3D Simulators**:  
@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I am a passionate programmer, physicist, and mathe
 
 ## 💡 Highlighted Achievements
 
-- 🔧 Designed and improved the **Small Arms Firing Simulator** for Navy training.
-- 🎯 Developed an optimized **ArUco marker detection algorithm** for higher performance.
+- 🔧 Designed and improved the **Small Arms Firing Simulator** for Navy and Army training.
+- 🎯 Developed an optimized ** computer vision-based detection algorithm** for higher performance.
 - 🌐 Created a **router system using ESP32 and SIM7600** for enhanced connectivity in remote areas.
 
 ---
