@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about programming, physics, and mat
 ## 💡 Achievements
 
 <p align="center">
-  <img src="./Achievements-image.webp" alt="Achievement Image 1" width="500">
+  <img src="./Achievements-image2.webp" alt="Achievement Image 1" width="500">
 </p>
 
 - 🔧 Improved the **Small Arms Firing Simulator** for enhanced training.  
