@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am a passionate programmer, physicist, and mathe
   Developing immersive training solutions with Unity, leveraging advanced physics and C# scripting.
 
 ### 📝 Documentation  
-- Preparing white papers and project reports to secure approvals for subsurface threat detection systems and other innovative technologies.
+- Preparing project reports for other innovative technologies.
 
 ---
 
