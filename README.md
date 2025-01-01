@@ -1,51 +1,60 @@
-# Hi there! 👋 I'm RP Gamage
+# Hi there! 👋 I'm RP Gamage (aka Choota)
 
-Welcome to my GitHub profile! I am a passionate programmer, physicist, and researcher with a strong background in research and development. My experience spans from working on cutting-edge simulators for the Sri Lanka Navy to developing innovative IoT and AI solutions.
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Choota's Profile Picture" width="150" style="border-radius: 50%;">
+</p>
+
+Welcome to my GitHub profile! I'm passionate about programming, physics, and mathematics, with a knack for developing innovative solutions and documenting complex projects.
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 **Education**: MSc in Nuclear Science | BSc Hons in Physics | Postgraduate Diploma in Industrial Automation
-- 💼 **Experience**: Over a decade of service as a Research Officer in the Navy, specializing in R&D for simulators and control systems.
-- 🛠 **Skills**:  
-  - Programming: Python, C#, C++, JavaScript, React.js, Arduino  
-  - Frameworks: Unity 3D, Tkinter, Firebase  
-  - Tools: ESP32, SIM7600 modules, Modbus communication  
-  - Specializations: IoT, AI, simulator development, and embedded systems  
+- 🎓 **Education**: MSc in Nuclear Science | BSc Hons in Physics | Postgraduate Diploma in Industrial Automation  
+- 💼 **Experience**: Research Officer with over a decade of expertise in R&D for simulators and subsurface detection systems.  
+- 🛠 **Skills**: Python, C#, React.js, Arduino, Unity 3D, Embedded Systems, IoT, and AI.  
+- 🌏 **Location**: Sri Lanka  
 
 ---
 
-## 🚀 Current Projects
+## 🚀 My Projects
 
-### ⚡ IoT & Embedded Systems  
-- **Smart ESP32 Communication Module**:  
-  Fetches the latest firmware updates from GitHub repositories via GSM 4G.
+### ⚡ Embedded Systems and IoT
+- **ESP32 Firmware Updater**: Automates GitHub-based firmware updates via GSM 4G.  
+- **Energy Logger**: Real-time energy monitoring with React.js and Firestore.
 
-- **Data Logging System**:  
-  A real-time logging React.js application with Firestore integration.
+### 🎮 Simulators and Unity
+- **3D Training Simulators**: Advanced physics-based tools for Navy and Army personnel.
 
-### 🎮 Unity 3D  
-- **3D Simulators**:  
-  Developing immersive training solutions with Unity, leveraging advanced physics and C# scripting.
-
-### 📝 Documentation  
-- Preparing project reports for other innovative technologies.
+### 📜 Documentation
+- Authoring project reports and white papers for innovative technology approvals.
 
 ---
 
-## 💡 Highlighted Achievements
+## 💡 Achievements
 
-- 🔧 Designed and improved the **Small Arms Firing Simulator** for Navy and Army training.
-- 🎯 Developed an optimized ** computer vision-based detection algorithm** for higher performance.
-- 🌐 Created a **router system using ESP32 and SIM7600** for enhanced connectivity in remote areas.
+<p align="center">
+  <img src="https://via.placeholder.com/500x300" alt="Achievement Image 1" width="500">
+</p>
+
+- 🔧 Improved the **Small Arms Firing Simulator** for enhanced training.  
+- 🌐 Designed a **4G-based router** using ESP32 and SIM7600 for remote connectivity.  
+- 🎯 Optimized ArUco marker detection for high-performance applications.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Choota's GitHub Stats">
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio Website](https://your-website.com)  
-- 🐦 [Twitter](https://twitter.com/your-profile)  
-
-Feel free to explore my repositories, contribute, or get in touch if you're interested in collaboration! 😊
+<p>
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://via.placeholder.com/150x50" alt="LinkedIn"></a>  
+  <a href="https://twitter.com/your-profile" target="_blank"><img src="https://via.placeholder.com/150x50" alt="Twitter"></a>  
+  <a href="https://your-website.com" target="_blank"><img src="https://via.placeholder.com/150x50" alt="Portfolio"></a>  
+</p>
