@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm RP Gamage (aka Choota)
-
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Choota's Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="./profile-image.webp" alt="Choota's Illustration" width="300">
 </p>
 
 Welcome to my GitHub profile! I'm passionate about programming, physics, and mathematics, with a knack for developing innovative solutions and documenting complex projects.
