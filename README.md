@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm passionate about programming, physics, and mat
 ## 📫 Connect With Me
 
 <p>
-  <a href="www.linkedin.com/in/rpgamage" target="_blank"><img src="https://via.placeholder.com/150x50" alt="LinkedIn"></a>  
+  <a href="www.linkedin.com/in/rpgamage" target="_blank"><img src="[https://via.placeholder.com/150x50](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)" alt="LinkedIn"></a>  
   <a href="https://twitter.com/your-profile" target="_blank"><img src="https://via.placeholder.com/150x50" alt="Twitter"></a>  
   <a href="https://your-website.com" target="_blank"><img src="https://via.placeholder.com/150x50" alt="Portfolio"></a>  
 </p>
