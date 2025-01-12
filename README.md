@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm RP Gamage (aka Choota)
+
 <p align="center">
   <img src="./profile-image.webp" alt="Choota's Illustration" width="300">
 </p>
@@ -10,8 +11,8 @@ Welcome to my GitHub profile! I'm passionate about programming, physics, and mat
 ## 🌟 About Me
 
 - 🎓 **Education**: MSc in Nuclear Science | BSc Hons in Physics | Postgraduate Diploma in Industrial Automation  
-- 💼 **Experience**: Research Officer with over a decade of expertise in R&D for simulators and subsurface detection systems.  
-- 🛠 **Skills**: Python, C#, React.js, Arduino, Unity 3D, Embedded Systems, IoT, and AI.  
+- 💼 **Experience**: Research Officer with over a decade of expertise in R&D for war simulators, control systems, and subsurface detection systems.  
+- 🛠 **Skills**: C/C++, Python, C#, React.js, Arduino, Unity 3D, Embedded Systems, IoT, and AI.  
 - 🌏 **Location**: Sri Lanka  
 
 ---
@@ -26,19 +27,19 @@ Welcome to my GitHub profile! I'm passionate about programming, physics, and mat
 - **3D Training Simulators**: Advanced physics-based tools for Navy and Army personnel.
 
 ### 📜 Documentation
-- Authoring project reports and white papers for innovative technology approvals.
+- Authoring project reports and white papers for approval of innovative technology.
 
 ---
 
 ## 💡 Achievements
 
 <p align="center">
-  <img src="./Achievements-image2.webp" alt="Achievement Image 1" width="500">
+  <img src="./Achievements-image2.webp" alt="Achievement Image" width="500">
 </p>
 
-- 🔧 Improved the **Small Arms Firing Simulator** for enhanced training.  
+- 🔧 Developed the **Small Arms Firing Simulator** for enhanced training.  
 - 🌐 Designed a **4G-based router** using ESP32 and SIM7600 for remote connectivity.  
-- 🎯 Optimized ArUco marker detection for high-performance applications.
+- 🎯 Optimized computer vision-based detection for high-performance applications.
 
 ---
 
@@ -52,8 +53,8 @@ Welcome to my GitHub profile! I'm passionate about programming, physics, and mat
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="www.linkedin.com/in/rpgamage" target="_blank"><img src="[https://via.placeholder.com/150x50](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)" alt="LinkedIn"></a>  
-  <a href="https://twitter.com/your-profile" target="_blank"><img src="https://via.placeholder.com/150x50" alt="Twitter"></a>  
-  <a href="https://your-website.com" target="_blank"><img src="https://via.placeholder.com/150x50" alt="Portfolio"></a>  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rpgamage" target="_blank">
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="50">
+  </a>
 </p>
