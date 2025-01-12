@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about programming, physics, and mat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Choota's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rpggamage&show_icons=true&theme=radical" alt="Choota's GitHub Stats">
 </p>
 
 ---
